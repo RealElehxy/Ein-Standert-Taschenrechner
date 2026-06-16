@@ -1,14 +1,12 @@
-# Security Policy
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Hir sind die Python Versionen die gehen!
 
 | Version | Supported          |
 | ------- | ------------------ |
 | >3.14   | :white_check_mark: |
-| 3.14   | :white_check_mark: |
+| 3.14   | :white_check_mark: :white_check_mark: :white_check_mark: |
 | < 3.5   | :x:                |
 
 ## Reporting a Vulnerability
